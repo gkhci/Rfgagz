@@ -19,7 +19,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # =========================
 #   CONFIGURATION
 # =========================
-TOKEN = "8793482183:AAEGUa7ZEURP26N34DzKvrudnndC3q7apBk"
+TOKEN = "8801377726:AAEnN-GcdnfclpZqt17Y3Zw23MM5-GGjd-M"
 ADMIN_IDS = [8680457924]  # آیدی عددی ادمین‌ها
 
 # =========================
